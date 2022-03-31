@@ -1,0 +1,2 @@
+- Physics degree in progress at State University of Londrina.
+- I'm here to learn about Git and Python.
