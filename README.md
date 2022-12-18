@@ -23,7 +23,6 @@ Although my repositories are in Portuguese, I provide a brief description in Eng
 ## Principais linguagens e tecnologias
 
 <div align="center">
-  <a href="https://www.r-project.org/" target="_blank"><img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <a href="https://cplusplus.com/" target="_blank"><img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <a href="https://aws.amazon.com/pt/" target="_blank"><img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
