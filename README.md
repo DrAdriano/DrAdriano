@@ -20,7 +20,7 @@ Although my repositories are in Portuguese, I provide a brief description in Eng
 
 </div>
 
-## Principais linguagens e tecnologias
+## Linguagens e tecnologias
 
 <div align="center">
   <a href="https://cloud.google.com/?hl=pt-br" target="_blank"><img align="center" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
