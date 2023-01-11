@@ -23,14 +23,24 @@ Although my repositories are in Portuguese, I provide a brief description in Eng
 ## Principais linguagens e tecnologias
 
 <div align="center">
+  <a href="https://cloud.google.com/?hl=pt-br" target="_blank"><img align="center" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank"><img align="center" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <a href="https://cplusplus.com/" target="_blank"><img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <a href="https://aws.amazon.com/pt/" target="_blank"><img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <a href="https://www.markdownguide.org/basic-syntax/" target="_blank"><img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div><br/>
+    
+<div align="center">
+  <a href="https://www.latex-project.org/" target="_blank"><img align="center" alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <a href="https://pt.overleaf.com/" target="_blank"><img align="center" alt="overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"><img align="center" alt="power-bi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+  <a href="https://aws.amazon.com/pt/" target="_blank"><img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://colab.research.google.com/" target="_blank"><img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <a href="https://jupyter.org/" target="_blank"><img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office?rtc=2" target="_blank"><img align="center" alt="microsoft.office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
-  
 
 <div align="center">
   <a href="https://github.com/DrAdriano/" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAdriano&layout=compact&langs_count=7&theme=tokyonight"/>
