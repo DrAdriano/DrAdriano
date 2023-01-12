@@ -41,7 +41,3 @@ Although my repositories are in Portuguese, I provide a brief description in Eng
   <a href="https://jupyter.org/" target="_blank"><img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office?rtc=2" target="_blank"><img align="center" alt="microsoft.office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
-
-<div align="center">
-  <a href="https://github.com/DrAdriano/" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAdriano&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
