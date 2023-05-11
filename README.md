@@ -10,7 +10,7 @@ Sou formado em Física  pela Universidade Estadual de Londrina, trabalho como pr
 
 I have a degree in Physics from the State University of Londrina, I work as a teacher and I am looking for an opportunity in technology. I am passionate about learning new things and solving problems.
 
-Although my repositories are in Portuguese, I provide a brief description in English in each 'README'. 
+Some of my repositories are in Portuguese. In this case, I provide a brief description in English in each 'README'. 
 
 #
 <div  align="center"> 
