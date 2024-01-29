@@ -4,7 +4,7 @@
 
 ### Sobre mim 
 
-Sou formado em Física pela Universidade Estadual de Londrina, trabalho como professor e estou constante aprendizado. Sou apaixonado pela sensação de aprender algo novo e resolver problemas.
+Sou formado em Física pela Universidade Estadual de Londrina, trabalho como professor e estou em constante aprendizado. Sou apaixonado pela sensação de aprender algo novo e resolver problemas.
 
 ### About me
 
