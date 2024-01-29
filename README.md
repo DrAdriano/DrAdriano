@@ -4,11 +4,11 @@
 
 ### Sobre mim 
 
-Sou formado em Física  pela Universidade Estadual de Londrina, trabalho como professor e estou buscando meu espaço na tecnologia. Sou apaixonado pela sensação de aprender algo novo e resolver problemas.
+Sou formado em Física pela Universidade Estadual de Londrina, trabalho como professor e estou constante aprendizado. Sou apaixonado pela sensação de aprender algo novo e resolver problemas.
 
 ### About me
 
-I have a degree in Physics from the State University of Londrina, I work as a teacher and I am looking for an opportunity in technology. I am passionate about learning new things and solving problems.
+I have a degree in Physics from the State University of Londrina, I work as a teacher and I'm constantly learning. I am passionate about learning new things and solving problems.
 
 Some of my repositories are in Portuguese. In this case, I provide a brief description in English in each 'README'. 
 
