@@ -4,22 +4,23 @@
 
 ### Sobre mim 
 
-Sou formado em Física pela Universidade Estadual de Londrina, trabalho como professor e estou em constante aprendizado. Sou apaixonado pela sensação de aprender algo novo e resolver problemas.
+Fazendo mestrado em Matemática pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Sou graduado em licenciatura em Física pela Universidade Estadual de Londrina (UEL).
 
 ### About me
 
-I have a degree in Physics from the State University of Londrina, I work as a teacher and I'm constantly learning. I am passionate about learning new things and solving problems.
+Pursuing a Master's degree in Mathematics at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Graduated with a degree in Physics from the State University of Londrina (UEL).
 
 Some of my repositories are in Portuguese. In this case, I provide a brief description in English in each 'README'. 
 
 #
 <div  align="center"> 
 
-  <a href="https://www.linkedin.com/in/sradriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://www.linkedin.com/in/sradriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:sradriano@uel.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
+<!--
 ## Linguagens e tecnologias
 
 <div align="center">
@@ -41,3 +42,4 @@ Some of my repositories are in Portuguese. In this case, I provide a brief descr
   <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office?rtc=2" target="_blank"><img align="center" alt="microsoft.office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
    <a href="https://www.databricks.com/" target="_blank"><img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 </div><br/>
+-->
